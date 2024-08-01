@@ -1,0 +1,8 @@
+Total Sales by Branch
+Sales by Product Line
+Sales by Payment Method
+Sales Trends Over Time
+Sales by Gender
+Sales by Customer Type
+Sales by City
+Sales by Rating
