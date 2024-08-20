@@ -1,0 +1,3 @@
+#	Name	Type 1	Type 2
+1	Bulbasaur	Grass	Poison
+2	Ivysaur	Grass	Poison
