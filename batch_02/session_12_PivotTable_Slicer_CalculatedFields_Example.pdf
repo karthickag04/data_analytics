@@ -1,0 +1,31 @@
+Description
+Pivot Table with Calculated Field Example:
+""
+Dataset Columns:
+1. Product
+2. Quantity Sold
+3. Unit Price
+4. Total Sales
+""
+Steps to Create the Pivot Table with a Calculated Field:
+1. Select your dataset and insert a Pivot Table.
+2. Drag 'Product' to Rows, and 'Quantity Sold' & 'Total Sales' to Values.
+3. Insert a Calculated Field named 'Total Profit' with the formula '= Total Sales * 0.20'.
+""
+Sample Pivot Table with Calculated Field (Total Profit):
+Product   | Sum of Quantity Sold | Sum of Total Sales | Total Profit
+--------------------------------------------------------------
+Product A | 100                  | $5,000             | $1,000
+Product B | 200                  | $6,000             | $1,200
+Product C | 150                  | $6,000             | $1,200
+""
+Explanation:
+The 'Total Profit' is calculated as 20% of 'Total Sales' for each product.
+For Product A: Profit = $5,000 * 0.20 = $1,000.
+For Product B: Profit = $6,000 * 0.20 = $1,200.
+For Product C: Profit = $6,000 * 0.20 = $1,200.
+""
+Including Slicers:
+1. After creating the PivotTable, go to PivotTable Analyze -> Insert Slicer.
+2. Select 'Product' as the slicer field.
+3. The slicer will allow you to filter the PivotTable by different products.
