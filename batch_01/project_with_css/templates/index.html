@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iris Data Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Iris Dataset Analysis</h1>
+        
+        <!-- Display the chart -->
+        <div class="chart">
+            <img src="{{ url_for('static', filename='chart.png') }}" alt="Iris Chart">
+        </div>
+        
+        <!-- Display the table -->
+        <div class="table-section">
+            <h2>Data Summary</h2>
+            {% for table in tables %}
+            <div>{{ titles[loop.index0] }}</div>
+            <div class="table-container">
+                {{ table|safe }}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>
