@@ -1,0 +1,9 @@
+PROJECT PYTHON 1 – CUSTOMER BEHAVIOR ANALYSIS TO INTRODUCE CUSTOMIZED
+OFFER
+✓ Problem statement explanation
+✓ Approach to problem in python
+✓ Data preprocessing and cleaning
+✓ Application of data visualization libraries of python
+✓ Analysis and report presentation
+
+?
