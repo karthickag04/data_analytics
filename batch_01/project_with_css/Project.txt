@@ -7,3 +7,11 @@ OFFER
 ✓ Analysis and report presentation
 
 ?
+
+
+PROJECT PYTHON 2 - TIME SERIES ANALYSIS
+✓ Problem statement explanation
+✓ Approach to problem in python
+✓ Data preprocessing and cleaning
+✓ Application of data visualization libraries of python
+✓ Analysis and report presentation JQuery HTML
