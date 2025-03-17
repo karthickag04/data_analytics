@@ -1,0 +1,28 @@
+Store_ID,Store_Name,Manager,Employee_Name,Employee_Email,Employee_ID,Gender,Job_Title,Sales_Amount,Sales_Date,City,State,Product_Category,Units_Sold,Customer_Satisfaction
+101,Saravana Stores,Ramachandran,Arun,arun@retail.com,EMP1001,Male,Sales Associate,15000,05-03-2022,Chennai,Tamil Nadu,Electronics,10,4.5
+102,Pothys,Murugan,Meena,meena@retail.com,EMP1002,Female,Cashier,12000,05-03-2022,Coimbatore,Tamil Nadu,Clothing,25,4.0
+103,Chennai Silks,Karthikeyan,Suresh,suresh@retail.com,EMP1003,Male,Store Supervisor,18000,05-03-2022,Salem,Tamil Nadu,Furniture,5,4.7
+104,Nalli Silks,Sivakumar,Anitha,anitha@retail.com,EMP1004,Female,Sales Associate,17000,05-03-2022,Madurai,Tamil Nadu,Clothing,20,4.8
+105,RMKV,Venkatesh,Rajesh,rajesh@retail.com,EMP1005,Male,Cashier,14000,05-03-2022,Trichy,Tamil Nadu,Home Decor,8,4.2
+106,Saravana Stores,Ramachandran,Kavitha,kavitha@retail.com,EMP1006,Female,Sales Manager,25000,05-03-2022,Chennai,Tamil Nadu,Electronics,15,4.6
+107,Pothys,Murugan,Ganesh,ganesh@retail.com,EMP1007,Male,Inventory Manager,20000,05-03-2022,Coimbatore,Tamil Nadu,Groceries,50,4.1
+108,Chennai Silks,Karthikeyan,Lakshmi,lakshmi@retail.com,EMP1008,Female,Store Manager,30000,05-03-2022,Salem,Tamil Nadu,Furniture,7,4.9
+109,Nalli Silks,Sivakumar,Prakash,prakash@retail.com,EMP1009,Male,Sales Associate,16000,05-03-2022,Madurai,Tamil Nadu,Clothing,22,4.4
+110,RMKV,Venkatesh,Divya,divya@retail.com,EMP1010,Female,Customer Support,13000,05-03-2022,Trichy,Tamil Nadu,Home Decor,9,4.3
+...
+159,Vasanth & Co,Anand,Siddharth,siddharth@retail.com,EMP1059,Male,Cashier,15500,07-03-2022,Salem,Tamil Nadu,Electronics,12,4.6
+160,Kumar Stores,Kumar,Ananya,ananya@retail.com,EMP1060,Female,Customer Support,14000,07-03-2022,Trichy,Tamil Nadu,Home Decor,13,4.5
+161,Saravana Stores,Ramachandran,Balaji,balaji@retail.com,EMP1061,Male,Sales Associate,16000,08-03-2022,Chennai,Tamil Nadu,Electronics,14,4.7
+162,Pothys,Murugan,Aishwarya,aishwarya@retail.com,EMP1062,Female,Cashier,13000,08-03-2022,Coimbatore,Tamil Nadu,Clothing,32,4.3
+163,Chennai Silks,Karthikeyan,Vishnu,vishnu@retail.com,EMP1063,Male,Store Supervisor,19500,08-03-2022,Salem,Tamil Nadu,Furniture,9,4.8
+164,Nalli Silks,Sivakumar,Divakar,divakar@retail.com,EMP1064,Male,Sales Associate,18500,08-03-2022,Madurai,Tamil Nadu,Clothing,28,5.0
+165,RMKV,Venkatesh,Swetha,swetha@retail.com,EMP1065,Female,Cashier,15500,08-03-2022,Trichy,Tamil Nadu,Home Decor,14,4.6
+166,Vasanth & Co,Anand,Goutham,goutham@retail.com,EMP1066,Male,Sales Associate,16500,08-03-2022,Chennai,Tamil Nadu,Electronics,15,4.7
+167,Kumar Stores,Kumar,Radha,radha@retail.com,EMP1067,Female,Customer Support,14500,08-03-2022,Trichy,Tamil Nadu,Home Decor,16,4.5
+168,Saravana Stores,Ramachandran,Nithya,nithya@retail.com,EMP1068,Female,Sales Associate,17000,08-03-2022,Chennai,Tamil Nadu,Electronics,17,4.8
+169,Pothys,Murugan,Yogesh,yogesh@retail.com,EMP1069,Male,Cashier,13500,08-03-2022,Coimbatore,Tamil Nadu,Clothing,34,4.3
+170,Chennai Silks,Karthikeyan,Harini,harini@retail.com,EMP1070,Female,Store Supervisor,20000,08-03-2022,Salem,Tamil Nadu,Furniture,10,4.9
+171,Nalli Silks,Sivakumar,Dinesh,dinesh@retail.com,EMP1071,Male,Sales Associate,19000,08-03-2022,Madurai,Tamil Nadu,Clothing,30,5.0
+172,RMKV,Venkatesh,Shalini,shalini@retail.com,EMP1072,Female,Cashier,16000,08-03-2022,Trichy,Tamil Nadu,Home Decor,15,4.6
+173,Vasanth & Co,Anand,Kishore,kishore@retail.com,EMP1073,Male,Sales Associate,17500,08-03-2022,Chennai,Tamil Nadu,Electronics,18,4.7
+174,Kumar Stores,Kumar,Janani,janani@retail.com,EMP1074,Female,Customer Support,15000,08-03-2022,Trichy,Tamil Nadu,Home Decor,17,4.5
