@@ -15,3 +15,7 @@ https://chatgpt.com/share/68403106-6778-800b-8308-88e8b7943ecd
 
 for Dashboard preparation
 https://chatgpt.com/share/68401de8-d930-800b-a464-af6a7055b8a5
+
+
+date updated dateset with date related analysis logic -  use dataset named date_analysis_supermarket_Sales.xlsx
+https://chatgpt.com/share/68416af9-7794-800b-959d-36f9a0aeb3f8
