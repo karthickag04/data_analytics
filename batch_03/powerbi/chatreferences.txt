@@ -11,3 +11,6 @@ https://chatgpt.com/share/6811f3b6-7f40-800b-9d7b-f692422967ec
 
 Power BI count-related DAX functions including: COUNT, COUNTA, COUNTX, COUNTBLANK
 https://chatgpt.com/share/683d730d-dfb4-800b-a59c-b40c60d6d65d
+
+ Advanced Time Intelligence
+https://chatgpt.com/share/6842bee0-0d1c-800b-bc1c-126b01067925
