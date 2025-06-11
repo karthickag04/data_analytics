@@ -16,6 +16,9 @@ formulas conversation for sumif, sumifs, countif,countifs,averageif, averageifs
 https://chatgpt.com/share/68403106-6778-800b-8308-88e8b7943ecd
 
 
+HLookup and Vlookup conversation from single logic to multiple 
+https://chatgpt.com/share/684972b7-55d4-800b-a265-7356a43edea9
+
 for Dashboard preparation
 https://chatgpt.com/share/68401de8-d930-800b-a464-af6a7055b8a5
 
