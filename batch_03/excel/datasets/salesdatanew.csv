@@ -1,0 +1,501 @@
+OrderID,Date,CustomerName,Product,Brand,Quantity,Price,Total,PaymentMethod,City,IncomeLevel
+1003,04-01-2025,Michael Lee,Smartphone,OnePlus,1,699,699,Debit Card,Chicago,Low
+1004,05-01-2025,Emily Clark,Smartphone,Xiaomi,3,499,1497,Credit Card,Houston,Low
+1006,07-01-2025,Anna Kim,Smartphone,Samsung,2,899,1798,Credit Card,Seattle,Low
+1009,10-01-2025,James Green,Smartphone,Apple,1,999,999,Credit Card,Denver,Low
+1010,11-01-2025,Susan Black,Smartphone,Samsung,1,799,799,UPI,Atlanta,Low
+1012,13-01-2025,Jessica Hall,Smartphone,Xiaomi,1,499,499,Credit Card,Las Vegas,Low
+1013,14-01-2025,Daniel Young,Smartphone,Apple,1,1099,1099,Debit Card,San Diego,Low
+1018,19-01-2025,Megan Carter,Smartphone,Samsung,2,799,1598,Debit Card,Charlotte,Low
+1025,26-01-2025,Paul Ward,Smartphone,Apple,1,999,999,Credit Card,Seattle,Low
+1032,02-02-2025,Amanda Bell,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Low
+1034,04-02-2025,Melissa James,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Low
+1041,11-02-2025,Christopher Wood,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Low
+1045,15-02-2025,Eric Coleman,Smartphone,Apple,1,1099,1099,Debit Card,Miami,Low
+1047,17-02-2025,Justin Perry,Smartphone,OnePlus,1,749,749,PayPal,Denver,Low
+1048,18-02-2025,Laura Powell,Smartphone,Xiaomi,2,599,1198,UPI,Atlanta,Low
+1051,21-02-2025,Shawn Hughes,Smartphone,OnePlus,1,699,699,PayPal,San Diego,Low
+1056,26-02-2025,Janet Foster,Smartphone,Xiaomi,2,599,1198,Debit Card,Charlotte,Low
+1057,27-02-2025,Gregory Gonzales,Smartphone,Apple,1,999,999,Credit Card,Indianapolis,Low
+1058,28-02-2025,Julie Bryant,Smartphone,Samsung,1,799,799,UPI,Fort Worth,Low
+1061,03-03-2025,Scott Griffin,Smartphone,Apple,1,1099,1099,Debit Card,Austin,Low
+1063,05-03-2025,Samuel Hayes,Smartphone,OnePlus,1,749,749,PayPal,Seattle,Low
+1068,10-03-2025,Marie Sullivan,Smartphone,Xiaomi,3,499,1497,Credit Card,Orlando,Low
+1070,12-03-2025,Gloria Woods,Smartphone,Samsung,2,899,1798,Credit Card,San Diego,Low
+1071,13-03-2025,Wayne West,Smartphone,OnePlus,1,749,749,PayPal,Portland,Low
+1075,17-03-2025,Phillip Reynolds,Smartphone,OnePlus,2,699,1398,PayPal,Charlotte,Low
+1076,18-03-2025,Joan Fisher,Smartphone,Xiaomi,1,499,499,Credit Card,Indianapolis,Low
+1079,21-03-2025,Victor Gibson,Smartphone,OnePlus,1,749,749,PayPal,Jacksonville,Low
+1088,30-03-2025,Janice Webb,Smartphone,Xiaomi,2,599,1198,Debit Card,Las Vegas,Low
+1092,03-04-2025,Carolyn Porter,Smartphone,Xiaomi,1,499,499,Credit Card,San Jose,Low
+1098,09-04-2025,Marie Mason,Smartphone,Samsung,2,799,1598,Debit Card,Jacksonville,Low
+1101,12-04-2025,Willie Fox,Smartphone,Apple,1,1099,1099,UPI,Seattle,Low
+1106,17-04-2025,Julia Montgomery,Smartphone,Samsung,1,799,799,UPI,Orlando,Low
+1111,22-04-2025,Joan McGuire,Smartphone,OnePlus,1,749,749,PayPal,San Jose,Low
+1112,23-04-2025,Geraldine Bridges,Smartphone,Xiaomi,2,599,1198,UPI,Columbus,Low
+1113,24-04-2025,Geraldine McCoy,Smartphone,Apple,1,999,999,Credit Card,Charlotte,Low
+1114,25-04-2025,Geraldine Stevenson,Smartphone,Samsung,2,799,1598,Debit Card,Indianapolis,Low
+1118,29-04-2025,Geraldine Holland,Smartphone,Samsung,2,899,1798,Credit Card,Austin,Low
+1119,30-04-2025,Geraldine Ballard,Smartphone,OnePlus,1,749,749,PayPal,San Francisco,Low
+OrderID,Date,CustomerName,Product,Brand,Quantity,Price,Total,PaymentMethod,City,IncomeLevel
+1121,02-05-2025,Geraldine McGuire,Smartphone,Apple,1,999,999,Credit Card,Miami,Low
+1130,11-05-2025,Geraldine McBride,Smartphone,Samsung,2,799,1598,Debit Card,San Jose,Low
+1132,13-05-2025,Geraldine Bridges,Smartphone,Xiaomi,3,499,1497,Credit Card,Charlotte,Low
+1134,15-05-2025,Geraldine Stevenson,Smartphone,Samsung,2,899,1798,Credit Card,Fort Worth,Low
+1135,16-05-2025,Geraldine Barrett,Smartphone,OnePlus,1,749,749,PayPal,San Antonio,Low
+1137,18-05-2025,Geraldine Brewer,Smartphone,Apple,1,999,999,Credit Card,Austin,Low
+1143,24-05-2025,Geraldine McCoy,Smartphone,OnePlus,1,749,749,PayPal,Atlanta,Low
+1151,01-06-2025,Geraldine McGuire,Smartphone,OnePlus,1,749,749,PayPal,Charlotte,Low
+1155,05-06-2025,Geraldine Barrett,Smartphone,OnePlus,2,699,1398,PayPal,Jacksonville,Low
+1159,09-06-2025,Geraldine Ballard,Smartphone,OnePlus,1,749,749,PayPal,Miami,Low
+1160,10-06-2025,Geraldine McBride,Smartphone,Xiaomi,2,599,1198,UPI,Boston,Low
+1165,15-06-2025,Geraldine Barrett,Smartphone,Apple,1,1099,1099,UPI,San Diego,Low
+1166,16-06-2025,Geraldine Lambert,Smartphone,Samsung,2,899,1798,Credit Card,Portland,Low
+1167,17-06-2025,Geraldine Brewer,Smartphone,OnePlus,1,749,749,PayPal,Philadelphia,Low
+1171,21-06-2025,Geraldine McGuire,Smartphone,OnePlus,2,699,1398,PayPal,Indianapolis,Low
+1173,23-06-2025,Geraldine McCoy,Smartphone,Apple,1,1099,1099,Debit Card,San Antonio,Low
+1174,24-06-2025,Geraldine Stevenson,Smartphone,Samsung,3,899,2697,Credit Card,Jacksonville,Low
+1175,25-06-2025,Geraldine Barrett,Smartphone,OnePlus,1,749,749,PayPal,Austin,Low
+1176,26-06-2025,Geraldine Lambert,Smartphone,Xiaomi,2,599,1198,UPI,San Francisco,Low
+1182,02-07-2025,Geraldine Bridges,Smartphone,Samsung,2,899,1798,Credit Card,Orlando,Low
+1183,03-07-2025,Geraldine McCoy,Smartphone,OnePlus,1,749,749,PayPal,Las Vegas,Low
+1192,12-07-2025,Geraldine Bridges,Smartphone,Xiaomi,2,599,1198,UPI,San Antonio,Low
+1193,13-07-2025,Geraldine McCoy,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Low
+1195,15-07-2025,Geraldine Barrett,Smartphone,OnePlus,1,749,749,PayPal,San Francisco,Low
+1200,20-07-2025,Geraldine McBride,Smartphone,Xiaomi,2,599,1198,Debit Card,Atlanta,Low
+1203,23-07-2025,Lucas Brown,Smartphone,OnePlus,1,699,699,Debit Card,Chicago,Low
+1210,30-07-2025,Amelia Martinez,Smartphone,Samsung,1,799,799,UPI,Atlanta,Low
+1221,10-08-2025,Daniel Kim,Smartphone,Apple,1,1099,1099,UPI,San Antonio,Low
+1223,12-08-2025,Matthew Brown,Smartphone,OnePlus,1,749,749,PayPal,Austin,Low
+1224,13-08-2025,Chloe Davis,Smartphone,Xiaomi,2,599,1198,Debit Card,San Francisco,Low
+1231,20-08-2025,Elijah Harris,Smartphone,OnePlus,1,749,749,PayPal,Las Vegas,Low
+1235,24-08-2025,Lucas Walker,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Low
+1243,01-09-2025,Lucas Green,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,Low
+1246,04-09-2025,Emma Gonzalez,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Low
+1247,05-09-2025,Elijah Nelson,Smartphone,OnePlus,1,749,749,PayPal,Orlando,Low
+1259,17-09-2025,Lucas Stewart,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,Low
+1260,18-09-2025,Olivia Sanchez,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Low
+1263,21-09-2025,Elijah Reed,Smartphone,OnePlus,1,749,749,PayPal,Orlando,Low
+1269,27-09-2025,Noah Cooper,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Low
+1270,28-09-2025,Emma Richardson,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Low
+1272,30-09-2025,Chloe Howard,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,Low
+1276,04-10-2025,Olivia Gray,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Low
+1277,05-10-2025,Noah Ramirez,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Low
+1280,08-10-2025,Chloe Brooks,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Low
+1281,09-10-2025,James Kelly,Smartphone,Apple,1,999,999,Credit Card,Portland,Low
+1283,11-10-2025,Lucas Price,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Low
+1294,22-10-2025,Emma Wright,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Low
+1296,24-10-2025,Chloe Green,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Low
+1297,25-10-2025,James Adams,Smartphone,Apple,1,999,999,Credit Card,Portland,Low
+1302,30-10-2025,Emma Mitchell,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Low
+1303,31-10-2025,Elijah Perez,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Low
+1309,06-11-2025,Noah Evans,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Low
+1311,08-11-2025,Elijah Collins,Smartphone,OnePlus,1,749,749,PayPal,Orlando,Low
+1312,09-11-2025,Chloe Stewart,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Low
+1314,11-11-2025,Charlotte Morris,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Low
+1320,17-11-2025,Chloe Murphy,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,Low
+1321,18-11-2025,James Rivera,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Low
+1325,22-11-2025,Noah Ward,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Low
+1326,23-11-2025,Emma Torres,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Low
+1328,25-11-2025,Chloe Gray,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Low
+1329,26-11-2025,James Ramirez,Smartphone,Apple,1,999,999,Credit Card,Portland,Low
+1331,28-11-2025,Lucas Watson,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Low
+1335,02-12-2025,Elijah Wright,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Low
+1342,09-12-2025,Emma Gonzalez,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Low
+1343,10-12-2025,Elijah Nelson,Smartphone,OnePlus,1,749,749,PayPal,Orlando,Low
+1346,13-12-2025,Charlotte Perez,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Low
+1349,16-12-2025,Noah Carter,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Low
+1353,20-12-2025,James Turner,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Low
+1355,22-12-2025,Lucas Campbell,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,Low
+1359,26-12-2025,Elijah Collins,Smartphone,OnePlus,1,749,749,PayPal,Orlando,Low
+1361,28-12-2025,James Morgan,Smartphone,Apple,1,999,999,Credit Card,Portland,Low
+1364,31-12-2025,Olivia Rivera,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,Low
+1365,01-01-2026,Noah Cooper,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Low
+1379,15-01-2026,Lucas Gonzalez,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Low
+1381,17-01-2026,Noah Carter,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Low
+1383,19-01-2026,Elijah Perez,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Low
+1386,22-01-2026,Charlotte Phillips,Smartphone,Samsung,1,799,799,UPI,Austin,Low
+1391,27-01-2026,Elijah Collins,Smartphone,OnePlus,1,749,749,PayPal,Orlando,Low
+1394,30-01-2026,Charlotte Bell,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Low
+1395,31-01-2026,Lucas Murphy,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Low
+1398,03-02-2026,Emma Morgan,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Low
+1401,06-02-2026,James Rivera,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Low
+1402,07-02-2026,Charlotte Cooper,Smartphone,Samsung,1,799,799,UPI,Austin,Low
+1405,10-02-2026,Noah Ward,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Low
+1406,11-02-2026,Emma Torres,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Low
+1413,18-02-2026,Noah Carter,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Low
+1418,23-02-2026,Charlotte Phillips,Smartphone,Samsung,1,799,799,UPI,Austin,Low
+1420,25-02-2026,Olivia Parker,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Low
+1421,26-02-2026,Noah Evans,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Low
+1427,04-03-2026,Lucas Murphy,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Low
+1428,05-03-2026,Olivia Rivera,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,Low
+1429,06-03-2026,Noah Cooper,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Low
+1430,07-03-2026,Emma Morgan,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Low
+1432,09-03-2026,Chloe Murphy,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,Low
+1436,13-03-2026,Olivia Howard,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Low
+1437,14-03-2026,Noah Ward,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Low
+1438,15-03-2026,Emma Torres,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Low
+1441,18-03-2026,James Adams,Smartphone,Apple,1,999,999,Credit Card,Portland,Low
+1442,19-03-2026,Charlotte Baker,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Low
+1444,21-03-2026,Olivia Nelson,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,Low
+1447,24-03-2026,Elijah Perez,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Low
+1451,28-03-2026,Lucas Campbell,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,Low
+1455,01-04-2026,Elijah Collins,Smartphone,OnePlus,1,749,749,PayPal,Orlando,Low
+1457,03-04-2026,James Morgan,Smartphone,Apple,1,999,999,Credit Card,Portland,Low
+1458,04-04-2026,Charlotte Bell,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Low
+1459,05-04-2026,Lucas Murphy,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Low
+1460,06-04-2026,Olivia Rivera,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,Low
+1464,10-04-2026,Chloe Murphy,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,Low
+1470,16-04-2026,Emma Torres,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Low
+1474,20-04-2026,Charlotte Baker,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Low
+1476,22-04-2026,Olivia Nelson,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,Low
+1482,28-04-2026,Charlotte Phillips,Smartphone,Samsung,1,799,799,UPI,Austin,Low
+1484,30-04-2026,Olivia Parker,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Low
+1494,10-05-2026,Emma Morgan,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Low
+1001,02-01-2025,John Smith,Smartphone,Apple,1,999,999,Credit Card,New York,Mid
+1011,12-01-2025,Robert King,Smartphone,OnePlus,2,699,1398,PayPal,Orlando,Mid
+1014,15-01-2025,Laura Scott,Smartphone,Samsung,3,899,2697,Credit Card,Portland,Mid
+1015,16-01-2025,Matthew Adams,Smartphone,OnePlus,1,749,749,PayPal,Philadelphia,Mid
+1016,17-01-2025,Olivia Turner,Smartphone,Xiaomi,2,599,1198,UPI,San Jose,Mid
+1017,18-01-2025,Joshua Baker,Smartphone,Apple,1,999,999,Credit Card,Columbus,Mid
+1024,25-01-2025,Rebecca Rivera,Smartphone,Xiaomi,2,599,1198,Debit Card,San Francisco,Mid
+1026,27-01-2025,Kimberly Cox,Smartphone,Samsung,1,799,799,UPI,Miami,Mid
+1027,28-01-2025,Edward Diaz,Smartphone,OnePlus,2,699,1398,PayPal,Boston,Mid
+1035,05-02-2025,Donald Watson,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Mid
+1037,07-02-2025,Joshua Kelly,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Mid
+1038,08-02-2025,Jessica Sanders,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Mid
+1039,09-02-2025,Jason Price,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Mid
+1042,12-02-2025,Sarah Barnes,Smartphone,Samsung,1,799,799,UPI,Austin,Mid
+1043,13-02-2025,Anthony Ross,Smartphone,OnePlus,2,699,1398,PayPal,San Francisco,Mid
+1044,14-02-2025,Heather Henderson,Smartphone,Xiaomi,1,499,499,Credit Card,Seattle,Mid
+1052,22-02-2025,Deborah Flores,Smartphone,Xiaomi,3,499,1497,Credit Card,Portland,Mid
+1053,23-02-2025,Patrick Washington,Smartphone,Apple,1,1099,1099,UPI,Philadelphia,Mid
+1054,24-02-2025,Carol Butler,Smartphone,Samsung,2,899,1798,Credit Card,San Jose,Mid
+1055,25-02-2025,Raymond Simmons,Smartphone,OnePlus,1,749,749,PayPal,Columbus,Mid
+1065,07-03-2025,Lawrence Ford,Smartphone,Apple,1,999,999,Credit Card,Boston,Mid
+1066,08-03-2025,Anna Hamilton,Smartphone,Samsung,2,799,1598,Debit Card,Denver,Mid
+1067,09-03-2025,Harold Graham,Smartphone,OnePlus,1,699,699,PayPal,Atlanta,Mid
+1069,11-03-2025,Willie Wallace,Smartphone,Apple,1,1099,1099,UPI,Las Vegas,Mid
+1073,15-03-2025,Alan Jordan,Smartphone,Apple,1,999,999,Credit Card,San Jose,Mid
+1074,16-03-2025,Denise Owens,Smartphone,Samsung,1,799,799,UPI,Columbus,Mid
+1077,19-03-2025,Johnny Ellis,Smartphone,Apple,1,1099,1099,Debit Card,Fort Worth,Mid
+1080,22-03-2025,Bonnie McDonald,Smartphone,Xiaomi,2,599,1198,UPI,Austin,Mid
+1081,23-03-2025,Ernest Cruz,Smartphone,Apple,1,999,999,Credit Card,San Francisco,Mid
+1082,24-03-2025,Cheryl Marshall,Smartphone,Samsung,2,799,1598,Debit Card,Seattle,Mid
+1084,26-03-2025,Joanne Gomez,Smartphone,Xiaomi,3,499,1497,Credit Card,Boston,Mid
+1086,28-03-2025,Teresa Freeman,Smartphone,Samsung,2,899,1798,Credit Card,Atlanta,Mid
+1090,01-04-2025,Debra Stevens,Smartphone,Samsung,1,799,799,UPI,Portland,Mid
+1091,02-04-2025,Patrick Tucker,Smartphone,OnePlus,2,699,1398,PayPal,Philadelphia,Mid
+1094,05-04-2025,Joyce Hicks,Smartphone,Samsung,3,899,2697,Credit Card,Charlotte,Mid
+1096,07-04-2025,Frances Henry,Smartphone,Xiaomi,2,599,1198,UPI,Fort Worth,Mid
+1099,10-04-2025,Harold Warren,Smartphone,OnePlus,1,699,699,PayPal,Austin,Mid
+1103,14-04-2025,Lawrence Bishop,Smartphone,OnePlus,1,749,749,PayPal,Boston,Mid
+1107,18-04-2025,Alan Brewer,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,Mid
+1109,20-04-2025,Joan Ballard,Smartphone,Apple,1,1099,1099,Debit Card,Portland,Mid
+1110,21-04-2025,Phillip McBride,Smartphone,Samsung,3,899,2697,Credit Card,Philadelphia,Mid
+1116,27-04-2025,Geraldine Lambert,Smartphone,Xiaomi,3,499,1497,Credit Card,San Antonio,Mid
+1124,05-05-2025,Geraldine Stevenson,Smartphone,Xiaomi,1,499,499,Credit Card,Atlanta,Mid
+1125,06-05-2025,Geraldine Barrett,Smartphone,Apple,1,1099,1099,Debit Card,Orlando,Mid
+1126,07-05-2025,Geraldine Lambert,Smartphone,Samsung,3,899,2697,Credit Card,Las Vegas,Mid
+1128,09-05-2025,Geraldine Holland,Smartphone,Xiaomi,2,599,1198,UPI,Portland,Mid
+1129,10-05-2025,Geraldine Ballard,Smartphone,Apple,1,999,999,Credit Card,Philadelphia,Mid
+1133,14-05-2025,Geraldine McCoy,Smartphone,Apple,1,1099,1099,UPI,Indianapolis,Mid
+1138,19-05-2025,Geraldine Holland,Smartphone,Samsung,1,799,799,UPI,San Francisco,Mid
+1141,22-05-2025,Geraldine McGuire,Smartphone,Apple,1,1099,1099,Debit Card,Boston,Mid
+1142,23-05-2025,Geraldine Bridges,Smartphone,Samsung,3,899,2697,Credit Card,Denver,Mid
+1144,25-05-2025,Geraldine Stevenson,Smartphone,Xiaomi,2,599,1198,UPI,Orlando,Mid
+1147,28-05-2025,Geraldine Brewer,Smartphone,OnePlus,1,699,699,PayPal,Portland,Mid
+1149,30-05-2025,Geraldine Ballard,Smartphone,Apple,1,1099,1099,UPI,San Jose,Mid
+1150,31-05-2025,Geraldine McBride,Smartphone,Samsung,2,899,1798,Credit Card,Columbus,Mid
+1152,02-06-2025,Geraldine Bridges,Smartphone,Xiaomi,2,599,1198,Debit Card,Indianapolis,Mid
+1154,04-06-2025,Geraldine Stevenson,Smartphone,Samsung,1,799,799,UPI,San Antonio,Mid
+1157,07-06-2025,Geraldine Brewer,Smartphone,Apple,1,1099,1099,Debit Card,San Francisco,Mid
+1161,11-06-2025,Geraldine McGuire,Smartphone,Apple,1,999,999,Credit Card,Denver,Mid
+1163,13-06-2025,Geraldine McCoy,Smartphone,OnePlus,1,699,699,PayPal,Orlando,Mid
+1164,14-06-2025,Geraldine Stevenson,Smartphone,Xiaomi,3,499,1497,Credit Card,Las Vegas,Mid
+1169,19-06-2025,Geraldine Ballard,Smartphone,Apple,1,999,999,Credit Card,Columbus,Mid
+1170,20-06-2025,Geraldine McBride,Smartphone,Samsung,1,799,799,UPI,Charlotte,Mid
+1180,30-06-2025,Geraldine McBride,Smartphone,Xiaomi,3,499,1497,Credit Card,Denver,Mid
+1184,04-07-2025,Geraldine Stevenson,Smartphone,Xiaomi,2,599,1198,Debit Card,San Diego,Mid
+1186,06-07-2025,Geraldine Lambert,Smartphone,Samsung,1,799,799,UPI,Philadelphia,Mid
+1188,08-07-2025,Geraldine Holland,Smartphone,Xiaomi,1,499,499,Credit Card,Columbus,Mid
+1189,09-07-2025,Geraldine Ballard,Smartphone,Apple,1,1099,1099,Debit Card,Charlotte,Mid
+1194,14-07-2025,Geraldine Stevenson,Smartphone,Samsung,2,799,1598,Debit Card,Austin,Mid
+1199,19-07-2025,Geraldine Ballard,Smartphone,OnePlus,1,749,749,PayPal,Denver,Mid
+1202,22-07-2025,Emma Watson,Smartphone,Samsung,2,799,1598,PayPal,Los Angeles,Mid
+1205,25-07-2025,Noah Smith,Smartphone,Apple,1,1099,1099,UPI,San Francisco,Mid
+1211,31-07-2025,Benjamin Rodriguez,Smartphone,OnePlus,2,699,1398,PayPal,Orlando,Mid
+1212,01-08-2025,Evelyn Hernandez,Smartphone,Xiaomi,1,499,499,Credit Card,Las Vegas,Mid
+1213,02-08-2025,Henry Lopez,Smartphone,Apple,1,1099,1099,Debit Card,San Diego,Mid
+1216,05-08-2025,Harper Anderson,Smartphone,Xiaomi,2,599,1198,UPI,San Jose,Mid
+1217,06-08-2025,William Thomas,Smartphone,Apple,1,999,999,Credit Card,Columbus,Mid
+1218,07-08-2025,Isabella Taylor,Smartphone,Samsung,2,799,1598,Debit Card,Charlotte,Mid
+1219,08-08-2025,Alexander Moore,Smartphone,OnePlus,1,699,699,PayPal,Indianapolis,Mid
+1220,09-08-2025,Emily Jackson,Smartphone,Xiaomi,3,499,1497,Credit Card,Fort Worth,Mid
+1222,11-08-2025,Victoria Lee,Smartphone,Samsung,2,899,1798,Credit Card,Jacksonville,Mid
+1225,14-08-2025,Michael Wilson,Smartphone,Apple,1,999,999,Credit Card,Seattle,Mid
+1229,18-08-2025,James Jackson,Smartphone,Apple,1,1099,1099,Debit Card,Atlanta,Mid
+1238,27-08-2025,Emma Young,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Mid
+1241,30-08-2025,James Wright,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Mid
+1244,02-09-2025,Olivia Adams,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Mid
+1248,06-09-2025,Chloe Carter,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Mid
+1249,07-09-2025,James Mitchell,Smartphone,Apple,1,999,999,Credit Card,Portland,Mid
+1250,08-09-2025,Charlotte Perez,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Mid
+1252,10-09-2025,Olivia Turner,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,Mid
+1253,11-09-2025,Noah Phillips,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Mid
+1257,15-09-2025,James Edwards,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Mid
+1258,16-09-2025,Charlotte Collins,Smartphone,Samsung,1,799,799,UPI,Austin,Mid
+1261,19-09-2025,Noah Morris,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Mid
+1262,20-09-2025,Emma Rogers,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Mid
+1265,23-09-2025,James Morgan,Smartphone,Apple,1,999,999,Credit Card,Portland,Mid
+1267,25-09-2025,Lucas Murphy,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Mid
+1271,29-09-2025,Elijah Cox,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Mid
+1285,13-10-2025,Noah Wood,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Mid
+1287,15-10-2025,Elijah Cooper,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Mid
+1291,19-10-2025,Lucas Young,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,Mid
+1292,20-10-2025,Olivia Hernandez,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Mid
+1293,21-10-2025,Noah King,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Mid
+1295,23-10-2025,Elijah Scott,Smartphone,OnePlus,1,749,749,PayPal,Orlando,Mid
+1298,26-10-2025,Charlotte Baker,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Mid
+1305,02-11-2025,James Turner,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Mid
+1313,10-11-2025,James Sanchez,Smartphone,Apple,1,999,999,Credit Card,Portland,Mid
+1317,14-11-2025,Noah Cook,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Mid
+1318,15-11-2025,Emma Morgan,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Mid
+1322,19-11-2025,Charlotte Cooper,Smartphone,Samsung,1,799,799,UPI,Austin,Mid
+1324,21-11-2025,Olivia Howard,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Mid
+1332,29-11-2025,Olivia Young,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,Mid
+1333,30-11-2025,Noah Hernandez,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Mid
+1337,04-12-2025,James Hill,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Mid
+1340,07-12-2025,Olivia Adams,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Mid
+1344,11-12-2025,Chloe Carter,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Mid
+1345,12-12-2025,James Mitchell,Smartphone,Apple,1,999,999,Credit Card,Portland,Mid
+1352,19-12-2025,Chloe Roberts,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,Mid
+1354,21-12-2025,Charlotte Phillips,Smartphone,Samsung,1,799,799,UPI,Austin,Mid
+1356,23-12-2025,Olivia Parker,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Mid
+1357,24-12-2025,Noah Evans,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Mid
+1362,29-12-2025,Charlotte Bell,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Mid
+1363,30-12-2025,Lucas Murphy,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Mid
+1367,03-01-2026,Elijah Bell,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Mid
+1373,09-01-2026,Noah Ward,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Mid
+1374,10-01-2026,Emma Torres,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Mid
+1375,11-01-2026,Elijah Peterson,Smartphone,OnePlus,1,749,749,PayPal,Orlando,Mid
+1376,12-01-2026,Chloe Gray,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Mid
+1378,14-01-2026,Charlotte Baker,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Mid
+1382,18-01-2026,Emma Mitchell,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Mid
+1384,20-01-2026,Chloe Roberts,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,Mid
+1385,21-01-2026,James Turner,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Mid
+1387,23-01-2026,Lucas Campbell,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,Mid
+1389,25-01-2026,Noah Evans,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Mid
+1390,26-01-2026,Emma Edwards,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Mid
+1399,04-02-2026,Elijah Bell,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Mid
+1400,05-02-2026,Chloe Murphy,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,Mid
+1404,09-02-2026,Olivia Howard,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Mid
+1408,13-02-2026,Chloe Gray,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Mid
+1410,15-02-2026,Charlotte Baker,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Mid
+1411,16-02-2026,Lucas Gonzalez,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Mid
+1415,20-02-2026,Elijah Perez,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Mid
+1417,22-02-2026,James Turner,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Mid
+1425,02-03-2026,James Morgan,Smartphone,Apple,1,999,999,Credit Card,Portland,Mid
+1426,03-03-2026,Charlotte Bell,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Mid
+1431,08-03-2026,Elijah Bell,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Mid
+1440,17-03-2026,Chloe Gray,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Mid
+1443,20-03-2026,Lucas Gonzalez,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Mid
+1448,25-03-2026,Chloe Roberts,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,Mid
+1450,27-03-2026,Charlotte Phillips,Smartphone,Samsung,1,799,799,UPI,Austin,Mid
+1453,30-03-2026,Noah Evans,Smartphone,Apple,1,1099,1099,Debit Card,Denver,Mid
+1454,31-03-2026,Emma Edwards,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,Mid
+1456,02-04-2026,Chloe Stewart,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Mid
+1462,08-04-2026,Emma Morgan,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Mid
+1463,09-04-2026,Elijah Bell,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Mid
+1465,11-04-2026,James Rivera,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Mid
+1468,14-04-2026,Olivia Howard,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,Mid
+1472,18-04-2026,Chloe Gray,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Mid
+1477,23-04-2026,Noah Carter,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Mid
+1478,24-04-2026,Emma Mitchell,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,Mid
+1481,27-04-2026,James Turner,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Mid
+1483,29-04-2026,Lucas Campbell,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,Mid
+1487,03-05-2026,Elijah Collins,Smartphone,OnePlus,1,749,749,PayPal,Orlando,Mid
+1488,04-05-2026,Chloe Stewart,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,Mid
+1490,06-05-2026,Charlotte Bell,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,Mid
+1491,07-05-2026,Lucas Murphy,Smartphone,OnePlus,1,699,699,PayPal,San Jose,Mid
+1492,08-05-2026,Olivia Rivera,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,Mid
+1493,09-05-2026,Noah Cooper,Smartphone,Apple,1,1099,1099,UPI,Charlotte,Mid
+1495,11-05-2026,Elijah Bell,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,Mid
+1496,12-05-2026,Chloe Murphy,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,Mid
+1497,13-05-2026,James Rivera,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,Mid
+1002,03-01-2025,Jane Doe,Smartphone,Samsung,2,799,1598,PayPal,Los Angeles,High
+1005,06-01-2025,Chris Evans,Smartphone,Apple,1,1099,1099,UPI,San Francisco,High
+1007,08-01-2025,David Brown,Smartphone,OnePlus,1,749,749,PayPal,Miami,High
+1008,09-01-2025,Lisa White,Smartphone,Xiaomi,2,599,1198,Debit Card,Boston,High
+1019,20-01-2025,Andrew Perez,Smartphone,OnePlus,1,699,699,PayPal,Indianapolis,High
+1020,21-01-2025,Stephanie Morris,Smartphone,Xiaomi,3,499,1497,Credit Card,Fort Worth,High
+1021,22-01-2025,Kevin Reed,Smartphone,Apple,1,1099,1099,UPI,San Antonio,High
+1022,23-01-2025,Michelle Cooper,Smartphone,Samsung,2,899,1798,Credit Card,Jacksonville,High
+1023,24-01-2025,Steven Bailey,Smartphone,OnePlus,1,749,749,PayPal,Austin,High
+1028,29-01-2025,Ashley Torres,Smartphone,Xiaomi,1,499,499,Credit Card,Denver,High
+1029,30-01-2025,Brian Ramirez,Smartphone,Apple,1,1099,1099,Debit Card,Atlanta,High
+1030,31-01-2025,Patricia Howard,Smartphone,Samsung,3,899,2697,Credit Card,Orlando,High
+1031,01-02-2025,Charles Brooks,Smartphone,OnePlus,1,749,749,PayPal,Las Vegas,High
+1033,03-02-2025,Mark Murphy,Smartphone,Apple,1,999,999,Credit Card,Portland,High
+1036,06-02-2025,Emily Brooks,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,High
+1040,10-02-2025,Elizabeth Bennett,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,High
+1046,16-02-2025,Angela Jenkins,Smartphone,Samsung,3,899,2697,Credit Card,Boston,High
+1049,19-02-2025,Brandon Long,Smartphone,Apple,1,999,999,Credit Card,Orlando,High
+1050,20-02-2025,Christina Patterson,Smartphone,Samsung,2,799,1598,Debit Card,Las Vegas,High
+1059,01-03-2025,Frank Alexander,Smartphone,OnePlus,2,699,1398,PayPal,San Antonio,High
+1060,02-03-2025,Teresa Russell,Smartphone,Xiaomi,1,499,499,Credit Card,Jacksonville,High
+1062,04-03-2025,Rebecca Diaz,Smartphone,Samsung,3,899,2697,Credit Card,San Francisco,High
+1064,06-03-2025,Shirley Myers,Smartphone,Xiaomi,2,599,1198,UPI,Miami,High
+1072,14-03-2025,Julia Cole,Smartphone,Xiaomi,2,599,1198,Debit Card,Philadelphia,High
+1078,20-03-2025,Jean Harrison,Smartphone,Samsung,3,899,2697,Credit Card,San Antonio,High
+1083,25-03-2025,Martin Ortiz,Smartphone,OnePlus,1,699,699,PayPal,Miami,High
+1085,27-03-2025,Gerald Murray,Smartphone,Apple,1,1099,1099,UPI,Denver,High
+1087,29-03-2025,Shawn Wells,Smartphone,OnePlus,1,749,749,PayPal,Orlando,High
+1089,31-03-2025,Raymond Simpson,Smartphone,Apple,1,999,999,Credit Card,San Diego,High
+1093,04-04-2025,Sean Hunter,Smartphone,Apple,1,1099,1099,Debit Card,Columbus,High
+1095,06-04-2025,Arthur Crawford,Smartphone,OnePlus,1,749,749,PayPal,Indianapolis,High
+1097,08-04-2025,Peter Boyd,Smartphone,Apple,1,999,999,Credit Card,San Antonio,High
+1100,11-04-2025,Annette Hart,Smartphone,Xiaomi,3,499,1497,Credit Card,San Francisco,High
+1102,13-04-2025,Shirley Rice,Smartphone,Samsung,2,899,1798,Credit Card,Miami,High
+1104,15-04-2025,Joan Lambert,Smartphone,Xiaomi,2,599,1198,Debit Card,Denver,High
+1105,16-04-2025,Phillip Daniels,Smartphone,Apple,1,999,999,Credit Card,Atlanta,High
+1108,19-04-2025,Denise Holland,Smartphone,Xiaomi,1,499,499,Credit Card,San Diego,High
+1115,26-04-2025,Geraldine Barrett,Smartphone,OnePlus,1,699,699,PayPal,Fort Worth,High
+1117,28-04-2025,Geraldine Brewer,Smartphone,Apple,1,1099,1099,UPI,Jacksonville,High
+1122,03-05-2025,Geraldine Bridges,Smartphone,Samsung,1,799,799,UPI,Boston,High
+1123,04-05-2025,Geraldine McCoy,Smartphone,OnePlus,2,699,1398,PayPal,Denver,High
+1127,08-05-2025,Geraldine Brewer,Smartphone,OnePlus,1,749,749,PayPal,San Diego,High
+1131,12-05-2025,Geraldine McGuire,Smartphone,OnePlus,1,699,699,PayPal,Columbus,High
+1136,17-05-2025,Geraldine Lambert,Smartphone,Xiaomi,2,599,1198,Debit Card,Jacksonville,High
+1139,20-05-2025,Geraldine Ballard,Smartphone,OnePlus,2,699,1398,PayPal,Seattle,High
+1140,21-05-2025,Geraldine McBride,Smartphone,Xiaomi,1,499,499,Credit Card,Miami,High
+1145,26-05-2025,Geraldine Barrett,Smartphone,Apple,1,999,999,Credit Card,Las Vegas,High
+1146,27-05-2025,Geraldine Lambert,Smartphone,Samsung,2,799,1598,Debit Card,San Diego,High
+1148,29-05-2025,Geraldine Holland,Smartphone,Xiaomi,3,499,1497,Credit Card,Philadelphia,High
+1153,03-06-2025,Geraldine McCoy,Smartphone,Apple,1,999,999,Credit Card,Fort Worth,High
+1156,06-06-2025,Geraldine Lambert,Smartphone,Xiaomi,1,499,499,Credit Card,Austin,High
+1158,08-06-2025,Geraldine Holland,Smartphone,Samsung,3,899,2697,Credit Card,Seattle,High
+1162,12-06-2025,Geraldine Bridges,Smartphone,Samsung,2,799,1598,Debit Card,Atlanta,High
+1168,18-06-2025,Geraldine Holland,Smartphone,Xiaomi,2,599,1198,Debit Card,San Jose,High
+1172,22-06-2025,Geraldine Bridges,Smartphone,Xiaomi,1,499,499,Credit Card,Fort Worth,High
+1177,27-06-2025,Geraldine Brewer,Smartphone,Apple,1,999,999,Credit Card,Seattle,High
+1178,28-06-2025,Geraldine Holland,Smartphone,Samsung,2,899,1598,Debit Card,Miami,High
+1179,29-06-2025,Geraldine Ballard,Smartphone,OnePlus,1,749,749,PayPal,Boston,High
+1181,01-07-2025,Geraldine McGuire,Smartphone,Apple,1,1099,1099,UPI,Atlanta,High
+1185,05-07-2025,Geraldine Barrett,Smartphone,Apple,1,999,999,Credit Card,Portland,High
+1187,07-07-2025,Geraldine Brewer,Smartphone,OnePlus,2,699,1398,PayPal,San Jose,High
+1190,10-07-2025,Geraldine McBride,Smartphone,Samsung,3,899,2697,Credit Card,Indianapolis,High
+1191,11-07-2025,Geraldine McGuire,Smartphone,OnePlus,1,699,699,PayPal,Fort Worth,High
+1196,16-07-2025,Geraldine Lambert,Smartphone,Xiaomi,3,499,1497,Credit Card,Seattle,High
+1197,17-07-2025,Geraldine Brewer,Smartphone,Apple,1,1099,1099,UPI,Miami,High
+1198,18-07-2025,Geraldine Holland,Smartphone,Samsung,2,899,1798,Credit Card,Boston,High
+1201,21-07-2025,Alex Morgan,Smartphone,Apple,1,999,999,Credit Card,New York,High
+1204,24-07-2025,Olivia Lee,Smartphone,Xiaomi,3,499,1497,Credit Card,Houston,High
+1206,26-07-2025,Mia Johnson,Smartphone,Samsung,2,899,1798,Credit Card,Seattle,High
+1207,27-07-2025,Elijah Williams,Smartphone,OnePlus,1,749,749,PayPal,Miami,High
+1208,28-07-2025,Charlotte Jones,Smartphone,Xiaomi,2,599,1198,Debit Card,Boston,High
+1209,29-07-2025,James Garcia,Smartphone,Apple,1,999,999,Credit Card,Denver,High
+1214,03-08-2025,Sophia Gonzalez,Smartphone,Samsung,3,899,2697,Credit Card,Portland,High
+1215,04-08-2025,Jack Wilson,Smartphone,OnePlus,1,749,749,PayPal,Philadelphia,High
+1226,15-08-2025,Emily Martinez,Smartphone,Samsung,1,799,799,UPI,Miami,High
+1227,16-08-2025,Joshua Anderson,Smartphone,OnePlus,2,699,1398,PayPal,Boston,High
+1228,17-08-2025,Ava Thomas,Smartphone,Xiaomi,1,499,499,Credit Card,Denver,High
+1230,19-08-2025,Charlotte White,Smartphone,Samsung,3,899,2697,Credit Card,Orlando,High
+1232,21-08-2025,Amelia Clark,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,High
+1233,22-08-2025,Henry Lewis,Smartphone,Apple,1,999,999,Credit Card,Portland,High
+1234,23-08-2025,Sophia Robinson,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,High
+1236,25-08-2025,Olivia Hall,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,High
+1237,26-08-2025,Noah Allen,Smartphone,Apple,1,1099,1099,UPI,Charlotte,High
+1239,28-08-2025,Elijah Hernandez,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,High
+1240,29-08-2025,Chloe King,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,High
+1242,31-08-2025,Charlotte Scott,Smartphone,Samsung,1,799,799,UPI,Austin,High
+1245,03-09-2025,Noah Baker,Smartphone,Apple,1,1099,1099,Debit Card,Denver,High
+1251,09-09-2025,Lucas Roberts,Smartphone,OnePlus,1,699,699,PayPal,San Jose,High
+1254,12-09-2025,Emma Campbell,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,High
+1255,13-09-2025,Elijah Parker,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,High
+1256,14-09-2025,Chloe Evans,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,High
+1264,22-09-2025,Chloe Cook,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,High
+1266,24-09-2025,Charlotte Bell,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,High
+1268,26-09-2025,Olivia Rivera,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,High
+1273,01-10-2025,James Ward,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,High
+1274,02-10-2025,Charlotte Torres,Smartphone,Samsung,1,799,799,UPI,Austin,High
+1275,03-10-2025,Lucas Peterson,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,High
+1278,06-10-2025,Emma James,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,High
+1279,07-10-2025,Elijah Watson,Smartphone,OnePlus,1,749,749,PayPal,Orlando,High
+1282,10-10-2025,Charlotte Sanders,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,High
+1284,12-10-2025,Olivia Bennett,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,High
+1286,14-10-2025,Emma Morgan,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,High
+1288,16-10-2025,Chloe Lee,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,High
+1289,17-10-2025,James Hall,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,High
+1290,18-10-2025,Charlotte Allen,Smartphone,Samsung,1,799,799,UPI,Austin,High
+1299,27-10-2025,Lucas Gonzalez,Smartphone,OnePlus,1,699,699,PayPal,San Jose,High
+1300,28-10-2025,Olivia Nelson,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,High
+1301,29-10-2025,Noah Carter,Smartphone,Apple,1,1099,1099,UPI,Charlotte,High
+1304,01-11-2025,Chloe Roberts,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,High
+1306,03-11-2025,Charlotte Phillips,Smartphone,Samsung,1,799,799,UPI,Austin,High
+1307,04-11-2025,Lucas Campbell,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,High
+1308,05-11-2025,Olivia Parker,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,High
+1310,07-11-2025,Emma Edwards,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,High
+1315,12-11-2025,Lucas Rogers,Smartphone,OnePlus,1,699,699,PayPal,San Jose,High
+1316,13-11-2025,Olivia Reed,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,High
+1319,16-11-2025,Elijah Bell,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,High
+1323,20-11-2025,Lucas Bailey,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,High
+1327,24-11-2025,Elijah Peterson,Smartphone,OnePlus,1,749,749,PayPal,Orlando,High
+1330,27-11-2025,Charlotte James,Smartphone,Samsung,2,799,1598,Debit Card,Philadelphia,High
+1334,01-12-2025,Emma King,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,High
+1336,03-12-2025,Chloe Lopez,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,High
+1338,05-12-2025,Charlotte Scott,Smartphone,Samsung,1,799,799,UPI,Austin,High
+1339,06-12-2025,Lucas Green,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,High
+1341,08-12-2025,Noah Baker,Smartphone,Apple,1,1099,1099,Debit Card,Denver,High
+1347,14-12-2025,Lucas Gonzalez,Smartphone,OnePlus,1,699,699,PayPal,San Jose,High
+1348,15-12-2025,Olivia Nelson,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,High
+1350,17-12-2025,Emma Mitchell,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,High
+1351,18-12-2025,Elijah Perez,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,High
+1358,25-12-2025,Emma Edwards,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,High
+1360,27-12-2025,Chloe Stewart,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,High
+1366,02-01-2026,Emma Morgan,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,High
+1368,04-01-2026,Chloe Murphy,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,High
+1369,05-01-2026,James Rivera,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,High
+1370,06-01-2026,Charlotte Cooper,Smartphone,Samsung,1,799,799,UPI,Austin,High
+1371,07-01-2026,Lucas Bailey,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,High
+1372,08-01-2026,Olivia Howard,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,High
+1377,13-01-2026,James Adams,Smartphone,Apple,1,999,999,Credit Card,Portland,High
+1380,16-01-2026,Olivia Nelson,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,High
+1388,24-01-2026,Olivia Parker,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,High
+1392,28-01-2026,Chloe Stewart,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,High
+1393,29-01-2026,James Morgan,Smartphone,Apple,1,999,999,Credit Card,Portland,High
+1396,01-02-2026,Olivia Rivera,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,High
+1397,02-02-2026,Noah Cooper,Smartphone,Apple,1,1099,1099,UPI,Charlotte,High
+1403,08-02-2026,Lucas Bailey,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,High
+1407,12-02-2026,Elijah Peterson,Smartphone,OnePlus,1,749,749,PayPal,Orlando,High
+1409,14-02-2026,James Adams,Smartphone,Apple,1,999,999,Credit Card,Portland,High
+1412,17-02-2026,Olivia Nelson,Smartphone,Xiaomi,3,499,1497,Credit Card,Columbus,High
+1414,19-02-2026,Emma Mitchell,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,High
+1416,21-02-2026,Chloe Roberts,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,High
+1419,24-02-2026,Lucas Campbell,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,High
+1422,27-02-2026,Emma Edwards,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,High
+1423,28-02-2026,Elijah Collins,Smartphone,OnePlus,1,749,749,PayPal,Orlando,High
+1424,01-03-2026,Chloe Stewart,Smartphone,Xiaomi,2,599,1198,UPI,San Diego,High
+1433,10-03-2026,James Rivera,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,High
+1434,11-03-2026,Charlotte Cooper,Smartphone,Samsung,1,799,799,UPI,Austin,High
+1435,12-03-2026,Lucas Bailey,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,High
+1439,16-03-2026,Elijah Peterson,Smartphone,OnePlus,1,749,749,PayPal,Orlando,High
+1445,22-03-2026,Noah Carter,Smartphone,Apple,1,1099,1099,UPI,Charlotte,High
+1446,23-03-2026,Emma Mitchell,Smartphone,Samsung,2,899,1798,Credit Card,Indianapolis,High
+1449,26-03-2026,James Turner,Smartphone,Apple,1,999,999,Credit Card,Jacksonville,High
+1452,29-03-2026,Olivia Parker,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,High
+1461,07-04-2026,Noah Cooper,Smartphone,Apple,1,1099,1099,UPI,Charlotte,High
+1466,12-04-2026,Charlotte Cooper,Smartphone,Samsung,1,799,799,UPI,Austin,High
+1467,13-04-2026,Lucas Bailey,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,High
+1469,15-04-2026,Noah Ward,Smartphone,Apple,1,1099,1099,Debit Card,Denver,High
+1471,17-04-2026,Elijah Peterson,Smartphone,OnePlus,1,749,749,PayPal,Orlando,High
+1473,19-04-2026,James Adams,Smartphone,Apple,1,999,999,Credit Card,Portland,High
+1475,21-04-2026,Lucas Gonzalez,Smartphone,OnePlus,1,699,699,PayPal,San Jose,High
+1479,25-04-2026,Elijah Perez,Smartphone,OnePlus,1,749,749,PayPal,Fort Worth,High
+1480,26-04-2026,Chloe Roberts,Smartphone,Xiaomi,2,599,1198,Debit Card,San Antonio,High
+1485,01-05-2026,Noah Evans,Smartphone,Apple,1,1099,1099,Debit Card,Denver,High
+1486,02-05-2026,Emma Edwards,Smartphone,Samsung,3,899,2697,Credit Card,Atlanta,High
+1489,05-05-2026,James Morgan,Smartphone,Apple,1,999,999,Credit Card,Portland,High
+1498,14-05-2026,Charlotte Cooper,Smartphone,Samsung,1,799,799,UPI,Austin,High
+1499,15-05-2026,Lucas Bailey,Smartphone,OnePlus,2,699,1398,PayPal,Las Vegas,High
+1500,16-05-2026,Olivia Howard,Smartphone,Xiaomi,1,499,499,Credit Card,Boston,High
