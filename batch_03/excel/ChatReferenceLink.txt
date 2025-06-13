@@ -25,3 +25,7 @@ https://chatgpt.com/share/68401de8-d930-800b-a464-af6a7055b8a5
 
 date updated dateset with date related analysis logic -  use dataset named date_analysis_supermarket_Sales.xlsx
 https://chatgpt.com/share/68416af9-7794-800b-959d-36f9a0aeb3f8
+
+
+conversation on Forcast and subtotal, PMT and financial functions
+https://chatgpt.com/share/684bf3d4-67ac-800b-ad7c-96195d834812
