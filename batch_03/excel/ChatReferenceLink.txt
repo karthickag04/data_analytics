@@ -29,3 +29,7 @@ https://chatgpt.com/share/68416af9-7794-800b-959d-36f9a0aeb3f8
 
 conversation on Forcast and subtotal, PMT and financial functions
 https://chatgpt.com/share/684bf3d4-67ac-800b-ad7c-96195d834812
+
+
+VBA script usage with excel
+https://chatgpt.com/share/684fea3b-66b0-800b-b087-35dd76e21054
