@@ -33,3 +33,6 @@ https://chatgpt.com/share/684bf3d4-67ac-800b-ad7c-96195d834812
 
 VBA script usage with excel
 https://chatgpt.com/share/684fea3b-66b0-800b-b087-35dd76e21054
+
+Data Analysis implementation through add-ins and checking stats through data analysis
+https://chatgpt.com/share/6853d958-1fa4-800b-9719-82e5a04bda1d
