@@ -36,3 +36,7 @@ https://chatgpt.com/share/684fea3b-66b0-800b-b087-35dd76e21054
 
 Data Analysis implementation through add-ins and checking stats through data analysis
 https://chatgpt.com/share/6853d958-1fa4-800b-9719-82e5a04bda1d
+
+
+References - Relative, Mixed, Absolute
+https://chatgpt.com/share/68591b20-d898-800b-87d8-f79ff3a7529f
