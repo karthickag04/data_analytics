@@ -5,3 +5,6 @@ https://chatgpt.com/share/67ebb1ad-fd7c-800b-8b0b-d8733febff9a
 
 Conversation on datavalidation
 https://chatgpt.com/share/68551278-bd44-800b-bb0f-fc162ad44d64
+
+Conversation for Sparkline under Excel
+https://chatgpt.com/share/685a4eb4-4e98-800b-8bbe-28e5a2896a50
