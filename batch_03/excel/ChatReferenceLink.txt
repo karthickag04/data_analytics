@@ -40,3 +40,7 @@ https://chatgpt.com/share/6853d958-1fa4-800b-9719-82e5a04bda1d
 
 References - Relative, Mixed, Absolute
 https://chatgpt.com/share/68591b20-d898-800b-87d8-f79ff3a7529f
+
+
+step-by-step Power Pivot Practice Guide with a sample dataset and full documentation
+https://chatgpt.com/share/685a7804-79e4-800b-af7c-acd9fc9873a1
