@@ -63,3 +63,6 @@ https://chatgpt.com/share/6874b62b-98c0-800b-a471-1f7451fe51de
 
 Conversation on Pivot tables part 2
 https://chatgpt.com/share/6877512b-1548-800b-92ca-e7600d8d8b28
+
+Data Model Mode power pivot
+https://chatgpt.com/share/687df5f5-6d3c-800b-9696-74fc60a8cecb
