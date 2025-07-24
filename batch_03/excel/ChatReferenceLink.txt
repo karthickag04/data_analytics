@@ -66,3 +66,6 @@ https://chatgpt.com/share/6877512b-1548-800b-92ca-e7600d8d8b28
 
 Data Model Mode power pivot
 https://chatgpt.com/share/687df5f5-6d3c-800b-9696-74fc60a8cecb
+
+Data Model Power pivot with DAX formulas.. and use of Calculate with filter
+https://chatgpt.com/share/6881e5c4-b3bc-800b-a874-822c2028ea7c
