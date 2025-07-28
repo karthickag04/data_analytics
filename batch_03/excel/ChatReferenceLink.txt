@@ -69,3 +69,9 @@ https://chatgpt.com/share/687df5f5-6d3c-800b-9696-74fc60a8cecb
 
 Data Model Power pivot with DAX formulas.. and use of Calculate with filter
 https://chatgpt.com/share/6881e5c4-b3bc-800b-a874-822c2028ea7c
+
+
+database local info
+192.168.29.40\SQLEXPRESS
+test01
+Test@123
