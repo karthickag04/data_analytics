@@ -76,3 +76,6 @@ sql1004.site4now.net
 uname: db_ab09ec_tmys_admin
 pass: Test@123
 database name: db_ab09ec_tmys
+
+for the above use below chat ref
+https://chatgpt.com/share/6889cd79-93f4-800b-b36f-a87564408c39
