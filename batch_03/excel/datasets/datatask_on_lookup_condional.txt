@@ -1,0 +1,53 @@
+# Sample Dataset: Sales Data
+
+| OrderID | Date       | Region   | Product   | Salesperson | Units | Unit Price | Total Sales |
+|---------|------------|----------|-----------|-------------|-------|------------|-------------|
+| 1001    | 2025-01-15 | East     | Laptop    | Alice       | 5     | 800        | 4000        |
+| 1002    | 2025-01-16 | West     | Mouse     | Bob         | 20    | 25         | 500         |
+| 1003    | 2025-01-17 | North    | Monitor   | Carol       | 7     | 150        | 1050        |
+| 1004    | 2025-01-18 | East     | Keyboard  | Dave        | 10    | 45         | 450         |
+| 1005    | 2025-01-19 | South    | Laptop    | Eve         | 2     | 820        | 1640        |
+| 1006    | 2025-01-20 | East     | Mouse     | Alice       | 15    | 27         | 405         |
+| 1007    | 2025-01-21 | West     | Monitor   | Bob         | 9     | 155        | 1395        |
+| 1008    | 2025-01-22 | North    | Keyboard  | Carol       | 12    | 48         | 576         |
+| 1009    | 2025-01-23 | South    | Laptop    | Dave        | 4     | 810        | 3240        |
+| 1010    | 2025-01-24 | East     | Monitor   | Eve         | 6     | 160        | 960         |
+
+---
+
+## Lookup Table: Product Category
+
+| Product   | Category    |
+|-----------|-------------|
+| Laptop    | Electronics |
+| Mouse     | Accessories |
+| Monitor   | Electronics |
+| Keyboard  | Accessories |
+
+---
+
+## Example Practice Questions
+
+**Aggregation Functions:**
+- What is the total sales for each region?
+- Who sold the most units overall?
+- What is the average unit price of each product?
+
+**Conditional Analysis:**
+- What is the total sales of Laptops in the East region?
+- How many orders had total sales greater than $1000?
+
+**Lookup Functions:**
+- Use VLOOKUP to find the category for each product in the sales data.
+- Use HLOOKUP to find the unit price for a specific product from the first row.
+
+---
+
+**How to Use:**
+- Copy and paste the tables into Excel or Google Sheets.
+- For VLOOKUP, reference the Product column in your sales data and lookup in the product category table.
+- For HLOOKUP, you may transpose the product category table or use the first row as a lookup.
+
+---
+
+Happy practicing!
