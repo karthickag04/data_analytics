@@ -71,6 +71,13 @@ Data Model Power pivot with DAX formulas.. and use of Calculate with filter
 https://chatgpt.com/share/6881e5c4-b3bc-800b-a874-822c2028ea7c
 
 
+Financial Formulas implementation reference
+https://chatgpt.com/share/688b3475-1e4c-800b-be39-8bc7902eeb23
+
+
+
+
+
 database local info
 sql1004.site4now.net
 uname: db_ab09ec_tmys_admin
