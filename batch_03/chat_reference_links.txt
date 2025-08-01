@@ -21,3 +21,6 @@ https://chatgpt.com/share/6880b7f6-030c-800b-82d0-252b9012c2e1
 
 Conversation on Basic and advance formulas under Excel and its implementation
 https://chatgpt.com/share/688b69f9-737c-800b-b42c-d1f6b0b85428
+
+Sales Dataset Conversation for Pivot Manipulations
+https://chatgpt.com/share/688cbf1f-d184-800b-ac21-b506482f14c5
