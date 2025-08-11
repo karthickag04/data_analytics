@@ -1,5 +1,9 @@
 All powerbi formulas
 https://chatgpt.com/share/68932766-dc08-800b-b0c6-ee5e60a76136
+powerbi Filter formulas
+https://chatgpt.com/share/6899ba83-dbf0-800b-b767-900ec99d0e80
+
+
 
 KPI conversation
 https://chatgpt.com/share/68761b8b-ffd4-800b-801d-e79e125cf3c9
