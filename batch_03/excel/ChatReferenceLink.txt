@@ -84,6 +84,8 @@ dataset analysis chat ref
 https://chatgpt.com/share/68931cca-d5f0-800b-9cf7-df3de541b4f8
 https://chatgpt.com/share/68947f91-c80c-800b-87a0-982078b63a07
 
+Text Data Analysis
+https://chatgpt.com/share/689b098d-d4d0-800b-b7d9-f004b8c1c21d
 
 
 database local info
