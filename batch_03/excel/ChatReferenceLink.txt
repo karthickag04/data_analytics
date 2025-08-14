@@ -1,6 +1,9 @@
 excel vs powerBI formulas
 https://chatgpt.com/share/68664629-ef0c-800b-87b1-32b4c2b8b424
 
+Charts and its field selection ref
+https://chatgpt.com/share/689da8cc-b1c4-800b-96d0-5812fdaf76b5
+
 sparkline
 https://chatgpt.com/share/6846b2bd-6ca8-800b-a8b8-da1c07fb5bc6
 
