@@ -4,6 +4,8 @@ powerbi Filter formulas
 https://chatgpt.com/share/6899ba83-dbf0-800b-b767-900ec99d0e80
 Relationship Functions 
 https://chatgpt.com/share/689c5ee3-2424-800b-8600-061a74c6c145
+Table Functions in DAX
+https://chatgpt.com/share/68a071e2-b868-800b-9829-604dea2531f1
 
 
 KPI conversation
