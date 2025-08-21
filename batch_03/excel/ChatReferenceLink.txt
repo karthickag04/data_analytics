@@ -90,6 +90,8 @@ https://chatgpt.com/share/68947f91-c80c-800b-87a0-982078b63a07
 Text Data Analysis
 https://chatgpt.com/share/689b098d-d4d0-800b-b7d9-f004b8c1c21d
 https://chatgpt.com/share/68a2dcfc-3874-800b-b060-0666450f4fc5
+Text Data Analysis v3
+https://chatgpt.com/share/68a6eeb4-1200-800b-abfd-facfd6f54798
 
 database local info
 sql1004.site4now.net
