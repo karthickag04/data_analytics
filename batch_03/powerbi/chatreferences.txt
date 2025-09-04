@@ -52,3 +52,7 @@ https://chatgpt.com/share/6842bee0-0d1c-800b-bc1c-126b01067925
 
 Chat ref for Custom functions, invoke custom functions and dataset for folder based data loading under bi
 https://chatgpt.com/share/688210e4-1180-800b-9ed3-d7a819b82335
+
+
+Registering for Microsoft - > Developer Program - > App.powerbi.com fabric account for powerbi online
+https://chatgpt.com/share/68b93752-9e58-800b-a704-50a565cc1680
