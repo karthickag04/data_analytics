@@ -14,6 +14,8 @@ Iterator Functions (X-functions)
 https://chatgpt.com/share/68b2c900-49ac-800b-abba-29ce5f11a045
 Parent-Child Functions
 https://chatgpt.com/share/68b56f97-8fe4-800b-88f5-8b1633b6c59c
+Power BI Table Functions
+https://chatgpt.com/share/68b96452-d424-800b-a801-7dfc7cfba54b
 
 
 Customer Feedback Dashboard manipulation under powerbi
