@@ -60,5 +60,8 @@ Chat ref for Custom functions, invoke custom functions and dataset for folder ba
 https://chatgpt.com/share/688210e4-1180-800b-9ed3-d7a819b82335
 
 
+Online dataset links to download
+https://chatgpt.com/share/68bab950-8318-800b-88b9-58467a55ddfb
+
 Registering for Microsoft - > Developer Program - > App.powerbi.com fabric account for powerbi online
 https://chatgpt.com/share/68b93752-9e58-800b-a704-50a565cc1680
