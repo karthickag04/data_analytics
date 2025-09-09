@@ -6,6 +6,10 @@ All powerbi formulas
 https://chatgpt.com/share/68932766-dc08-800b-b0c6-ee5e60a76136
 Aggregation Functions
 https://chatgpt.com/share/68ba911a-89a0-800b-a887-26de28493424
+Iterator Functions (X-functions)
+https://chatgpt.com/share/68b2c900-49ac-800b-abba-29ce5f11a045
+Mathematical Functions
+https://chatgpt.com/share/68bfd08c-7884-800b-9975-66ceb25b5054
 
 
 powerbi Filter formulas
@@ -14,8 +18,7 @@ Relationship Functions
 https://chatgpt.com/share/689c5ee3-2424-800b-8600-061a74c6c145
 Table Functions in DAX
 https://chatgpt.com/share/68a071e2-b868-800b-9829-604dea2531f1
-Iterator Functions (X-functions)
-https://chatgpt.com/share/68b2c900-49ac-800b-abba-29ce5f11a045
+
 Parent-Child Functions
 https://chatgpt.com/share/68b56f97-8fe4-800b-88f5-8b1633b6c59c
 Power BI Table Functions
