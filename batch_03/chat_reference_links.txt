@@ -24,3 +24,7 @@ https://chatgpt.com/share/688b69f9-737c-800b-b42c-d1f6b0b85428
 
 Sales Dataset Conversation for Pivot Manipulations
 https://chatgpt.com/share/688cbf1f-d184-800b-ac21-b506482f14c5
+
+
+excel formulas list and basic agg formulas with dataset
+https://chatgpt.com/share/68d14f50-99dc-800b-95a0-8bb2ff21c188
