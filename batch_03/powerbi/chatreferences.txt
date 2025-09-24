@@ -12,6 +12,8 @@ Mathematical Functions
 https://chatgpt.com/share/68bfd08c-7884-800b-9975-66ceb25b5054
 Text Functions in Power BI (DAX)
 https://chatgpt.com/share/68bfd4a0-171c-800b-af71-939358197f16
+Date and Time Functions
+https://chatgpt.com/share/68d3a3ce-3708-800b-a925-cd088c040a2a
 
 
 powerbi Filter formulas
