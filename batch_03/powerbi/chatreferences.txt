@@ -16,6 +16,14 @@ Date and Time Functions
 https://chatgpt.com/share/68d3a3ce-3708-800b-a925-cd088c040a2a
 
 
+
+DAX Time Intelligence Function Reference Table,
+https://chatgpt.com/share/68e3753f-0188-800b-b047-48bf04663b37
+Time Intelligence Function with https://github.com/karthickag04/data_analytics/tree/main/batch_03/powerbi/dataset/Dataset_supermarket_sales.csv
+
+https://chatgpt.com/share/68e37561-6908-800b-8386-89ac934d6109
+
+
 powerbi Filter formulas
 https://chatgpt.com/share/6899ba83-dbf0-800b-b767-900ec99d0e80
 Relationship Functions 
