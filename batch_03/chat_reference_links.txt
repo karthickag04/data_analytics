@@ -28,3 +28,7 @@ https://chatgpt.com/share/688cbf1f-d184-800b-ac21-b506482f14c5
 
 excel formulas list and basic agg formulas with dataset
 https://chatgpt.com/share/68d14f50-99dc-800b-95a0-8bb2ff21c188
+
+
+Git usage and Markdown(md) usage - Readme.md (styling)
+https://chatgpt.com/share/68e39ea9-56a0-800b-99ac-4b382480aa6d
