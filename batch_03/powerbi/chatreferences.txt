@@ -15,6 +15,9 @@ https://chatgpt.com/share/68bfd4a0-171c-800b-af71-939358197f16
 Date and Time Functions
 https://chatgpt.com/share/68d3a3ce-3708-800b-a925-cd088c040a2a
 
+variable usage with Dataset_supermarket_sales.csv
+https://chatgpt.com/share/68e6143b-6c1c-800b-a99c-0d0fbe1e155f
+
 
 
 DAX Time Intelligence Function Reference Table,
