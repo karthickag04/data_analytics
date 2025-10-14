@@ -52,7 +52,7 @@ https://chatgpt.com/share/68761b8b-ffd4-800b-801d-e79e125cf3c9
 KPI conversation with time intelligence functions with conditional formatting using IF and Switch DAX
 https://chatgpt.com/share/68e37561-6908-800b-8386-89ac934d6109
 
-KPI conversation with the dataset of Dataset_Sales_data.csv (KPI uner LINE, CARD(new), Column)
+KPI conversation with the dataset of Dataset_Sales_data.csv (KPI under LINE, CARD(new), Column)
 https://chatgpt.com/share/68edfd20-d6a0-800b-8aec-f8434ed97a1c
 
 
