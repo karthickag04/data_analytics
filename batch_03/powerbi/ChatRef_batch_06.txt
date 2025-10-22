@@ -21,3 +21,7 @@ https://chatgpt.com/share/68f0f29a-1a18-800b-be75-5b832593bfb0
 
 Aggregation functions tutorial on DAX - chat ref
 https://chatgpt.com/share/68f23f9d-96f8-800b-8de6-4ec0f941f906
+
+
+chat ref to practice Tooltips implementation
+https://chatgpt.com/share/68f8db55-c68c-800b-b066-121d4a4919d1
