@@ -1,27 +1,41 @@
+
+chat ref added for Dataset_supermarket_sales.csv under powerbi dataset folder 
+https://chatgpt.com/share/68ecfba9-db6c-800b-8456-3cb38c2fd99c
+
+Dashboard Creations with Chat Ideas
+https://chatgpt.com/share/68f0d537-4210-800b-a386-7a9ccb6d30f2
+
+Drill-through reference chat
+https://chatgpt.com/share/68f0f29a-1a18-800b-be75-5b832593bfb0
+
+chat ref to practice Tooltips implementation
+https://chatgpt.com/share/68f8db55-c68c-800b-b066-121d4a4919d1
+
+
+
+
+
+
+
+
+
+
+Formulas - DAX Usage
 new measure and column 01
 https://chatgpt.com/share/68ece240-ff84-800b-8e2c-b5d0412d1758
 
 new measure and column 02
 https://chatgpt.com/share/68ecfa67-b618-800b-81ca-3d8254d2ed78
 
-chat ref added for Dataset_supermarket_sales.csv under powerbi dataset folder 
-https://chatgpt.com/share/68ecfba9-db6c-800b-8456-3cb38c2fd99c
-
 Text formulas chat Ref Added
 https://chatgpt.com/share/68bfd4a0-171c-800b-af71-939358197f16
-
-
-Dashboard Creations with Chat Ideas
-https://chatgpt.com/share/68f0d537-4210-800b-a386-7a9ccb6d30f2
-
-
-Drill-through reference chat
-https://chatgpt.com/share/68f0f29a-1a18-800b-be75-5b832593bfb0
-
 
 Aggregation functions tutorial on DAX - chat ref
 https://chatgpt.com/share/68f23f9d-96f8-800b-8de6-4ec0f941f906
 
+Mathematical Functions
+https://chatgpt.com/share/68bfd08c-7884-800b-9975-66ceb25b5054
 
-chat ref to practice Tooltips implementation
-https://chatgpt.com/share/68f8db55-c68c-800b-b066-121d4a4919d1
+Date and Time Functions
+https://chatgpt.com/share/68d3a3ce-3708-800b-a925-cd088c040a2a
+
