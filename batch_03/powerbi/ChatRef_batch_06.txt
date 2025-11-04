@@ -43,3 +43,6 @@ Time intelligence functions
 https://chatgpt.com/share/68e37561-6908-800b-8386-89ac934d6109
 Time intelligence functions updated with 18 to 23 
 https://chatgpt.com/share/6903601a-4e90-800b-962d-e2b6a8bcaf31
+
+DAX manipulations examples for dynamical rendering of titles, colors of the values and backgroud using DAX
+https://chatgpt.com/share/6909f46f-341c-800b-b7f9-f7e16bb0c5d1
