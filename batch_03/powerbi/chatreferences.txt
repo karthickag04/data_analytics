@@ -42,6 +42,13 @@ https://chatgpt.com/share/68b96452-d424-800b-a801-7dfc7cfba54b
 
 Customer Feedback Dashboard manipulation under powerbi
 https://chatgpt.com/share/68a6d367-061c-800b-b15b-4ba43ed46973
+Customer Feedback Dashboard manipulation - detailed about relationship and other concepts
+https://chatgpt.com/share/69143e8c-4b00-800b-ab29-4e43ac1d49fb
+
+Text Data manipulation using REview Text
+https://chatgpt.com/share/69143f19-09cc-800b-b2d5-99e9a9d2c6b6
+Text data condtional formula understanding and creating new conditional formulas to place category
+https://chatgpt.com/share/69143f40-0abc-800b-b3e8-476f1e43b27c
 
 
 
