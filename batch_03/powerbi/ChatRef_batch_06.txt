@@ -57,3 +57,7 @@ https://chatgpt.com/share/690ca1e4-2b44-800b-b6f7-2994f036aa59
 
 chat ref for advance editor manipulation with inbuilt methods
 https://chatgpt.com/share/69148a14-f00c-800b-81db-c05ffe6db5ef
+
+
+Table formulas manipulation
+https://chatgpt.com/share/6915dd8f-8fcc-800b-a097-3d9abbca3f5a
