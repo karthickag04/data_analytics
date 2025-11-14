@@ -61,3 +61,9 @@ https://chatgpt.com/share/69148a14-f00c-800b-81db-c05ffe6db5ef
 
 Table formulas manipulation
 https://chatgpt.com/share/6915dd8f-8fcc-800b-a097-3d9abbca3f5a
+
+dataset chat ref for Append Practice
+https://chatgpt.com/share/69172ddf-8044-800b-a81b-cd17a7a0f6e6
+
+chat ref for Merge Practice
+https://chatgpt.com/share/69172e5c-8f4c-800b-9994-090d1c4612f2
