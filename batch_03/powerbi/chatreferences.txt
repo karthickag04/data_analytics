@@ -98,3 +98,6 @@ https://chatgpt.com/share/68bab950-8318-800b-88b9-58467a55ddfb
 
 Registering for Microsoft - > Developer Program - > App.powerbi.com fabric account for powerbi online
 https://chatgpt.com/share/68b93752-9e58-800b-a704-50a565cc1680
+
+Chat ref to add card with sparkline for "KPI + Sparkline"
+https://chatgpt.com/share/691ad551-d224-800b-9dc5-93016c983f80
