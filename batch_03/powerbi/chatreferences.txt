@@ -101,3 +101,10 @@ https://chatgpt.com/share/68b93752-9e58-800b-a704-50a565cc1680
 
 Chat ref to add card with sparkline for "KPI + Sparkline"
 https://chatgpt.com/share/691ad551-d224-800b-9dc5-93016c983f80
+
+
+chat ref extracting coloring schemes from any dashboard/image using chat based applications as HEX and RGB formatted
+https://chatgpt.com/share/691ebcab-8d1c-800b-9998-73dec32bbd0e
+
+chat ref for Data analyst interview domain knowledge Exploration
+https://chatgpt.com/share/691ebcf7-43e0-800b-bfae-bb3bce752362
