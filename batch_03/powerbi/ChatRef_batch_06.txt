@@ -70,3 +70,7 @@ https://chatgpt.com/share/69172e5c-8f4c-800b-9994-090d1c4612f2
 
 Chat ref for KPI with Sparkline
 https://chatgpt.com/share/691ad551-d224-800b-9dc5-93016c983f80
+
+
+chat ref for new measures, calculated column and new tables
+https://chatgpt.com/share/69259802-0e88-800b-9106-ff6ad9e01361
