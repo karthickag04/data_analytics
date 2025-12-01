@@ -75,3 +75,10 @@ https://chatgpt.com/share/691ad551-d224-800b-9dc5-93016c983f80
 
 chat ref for new measures, calculated column and new tables
 https://chatgpt.com/share/69259802-0e88-800b-9106-ff6ad9e01361
+
+chat ref - using prompt based chart preparation under powerbi
+https://chatgpt.com/share/692d9735-56bc-800b-9bcb-892be17f77d2
+
+
+chat ref for onlymysq dataset with username and no password
+https://chatgpt.com/share/692d96f8-5d70-800b-b9ec-d13df49a9e7b
