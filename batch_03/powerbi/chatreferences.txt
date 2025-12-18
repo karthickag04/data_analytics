@@ -31,6 +31,10 @@ powerbi Filter formulas
 https://chatgpt.com/share/6899ba83-dbf0-800b-b767-900ec99d0e80
 Relationship Functions 
 https://chatgpt.com/share/689c5ee3-2424-800b-8600-061a74c6c145
+
+Relationship Functions 01
+https://chatgpt.com/share/6943b5d9-5010-800b-86e0-2f7d4ad675cd
+
 Table Functions in DAX
 https://chatgpt.com/share/68a071e2-b868-800b-9829-604dea2531f1
 
