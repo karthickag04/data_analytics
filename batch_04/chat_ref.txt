@@ -1,3 +1,6 @@
 
 Sumif/Sumifs/countif/countifs/etc under excel with dataset
 https://chatgpt.com/share/68403106-6778-800b-8308-88e8b7943ecd
+
+Pivot - manipulation with excel
+https://chatgpt.com/share/695cb1d9-4a5c-800b-a465-76ee28901375
