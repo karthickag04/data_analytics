@@ -4,3 +4,6 @@ https://chatgpt.com/share/68403106-6778-800b-8308-88e8b7943ecd
 
 Pivot - manipulation with excel
 https://chatgpt.com/share/695cb1d9-4a5c-800b-a465-76ee28901375
+
+Chat ref for generating dataset and basic agg functions with its syntax understanding..
+https://chatgpt.com/share/6964940f-d190-800b-b3ee-12d3fdf68160
