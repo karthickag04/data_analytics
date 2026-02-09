@@ -17,3 +17,6 @@ https://chatgpt.com/share/696f1412-8f6c-800b-b8c7-f978344a23d7
 
 Chat ref for new measure and columns for sales dataset
 https://chatgpt.com/share/6971da7b-4190-800b-9019-9a5e7b2157ca
+
+dataset exploration ref
+https://chatgpt.com/share/6989b2bf-8618-800b-a838-5797931f9fde
