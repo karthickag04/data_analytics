@@ -20,3 +20,7 @@ https://chatgpt.com/share/6971da7b-4190-800b-9019-9a5e7b2157ca
 
 dataset exploration ref
 https://chatgpt.com/share/6989b2bf-8618-800b-a838-5797931f9fde
+
+
+Preprocessing Concepts
+https://chatgpt.com/share/698ed925-e0c8-800b-bf1a-28f43128aa96
