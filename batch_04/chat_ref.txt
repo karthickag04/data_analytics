@@ -1,3 +1,6 @@
+New measure and calculated column creation logic with sales dataset
+https://chatgpt.com/share/699980aa-77ec-800b-af95-09be2b939e90
+
 Pivot - manipulation with excel
 https://chatgpt.com/share/6996bb27-5ea8-800b-9e83-4acb00bd6a01
 
