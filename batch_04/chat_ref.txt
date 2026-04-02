@@ -1,3 +1,6 @@
+chat ref added for resume preparations using chatgpt
+https://chatgpt.com/share/69ce0fae-c5a8-83e8-ada4-169ae7560238
+
 New measure and calculated column creation logic with sales dataset
 https://chatgpt.com/share/699980aa-77ec-800b-af95-09be2b939e90
 
