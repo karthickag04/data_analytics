@@ -1,5 +1,7 @@
 Understanding dataset
 https://chatgpt.com/share/68b00d89-6c14-800b-88da-9c6575f57ac8
+chat ref for Q/A practice under insert tab in powerbi
+https://chatgpt.com/share/69fda68e-c094-83e8-bc20-4a73c5fcea7e
 
 
 All powerbi formulas
