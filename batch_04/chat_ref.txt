@@ -1,6 +1,9 @@
 chat ref related to data analysis/analytics career
 https://chatgpt.com/share/6a06b8ff-a27c-83ec-99c4-5d36ddd36a47
 
+chat ref for Datedif usage
+https://chatgpt.com/share/6a06c0ad-f694-83e8-9ba7-21cb3885738d
+
 formulas conversation for sumif, sumifs, countif,countifs,averageif, averageifs
 https://chatgpt.com/share/68403106-6778-800b-8308-88e8b7943ecd
 
