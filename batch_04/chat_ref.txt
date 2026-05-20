@@ -1,3 +1,6 @@
+chat ref for lookup functions ( hlookup, vlookup)
+https://chatgpt.com/share/6a0d685e-bf18-83ec-8489-d4525d4c1b52
+
 chat ref related to data analysis/analytics career
 https://chatgpt.com/share/6a06b8ff-a27c-83ec-99c4-5d36ddd36a47
 
