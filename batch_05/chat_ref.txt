@@ -1,7 +1,16 @@
+chat ref added for exploring dataset with its header using chatgpt
+https://chatgpt.com/share/6a22be51-9370-83e8-9ca8-52e7a1e30e41
+
+
+DATABASE FUNCTIONS: DGET, DMAX, DMIN, DPRODUCT, DSTDEV, DSTDEVP, DSUM, DVAR,
+DVARP ETC
+https://chatgpt.com/share/6a23c240-6518-83e8-81d8-8e50e71e0f14
+
+
 Chat ref for INFORMATION FUNCTIONS: CELL, ERROR.TYPE, INFO, ISBLANK, ISERR, ISERROR, ISEVEN,ISLOGICAL, ISNA, ISNONTEXT, ISNUMBER, ISREF, ISTEXT, TYPE ETC. added
 https://chatgpt.com/share/6a227335-7494-83ec-b5a2-4e0ad89f0fd5
 
 
-
-chat ref added for exploring dataset with its header using chatgpt
-https://chatgpt.com/share/6a22be51-9370-83e8-9ca8-52e7a1e30e41
+STATISTICAL FUNCTIONS: AVERAGE, AVERAGEIF, AVERAGEIFS, COUNT, COUNTA,
+COUNTBLANK, COUNTIF, MAX, MAXA, MIN, MINA, ETC
+https://chatgpt.com/share/6a23c2e9-2ba4-83e8-8876-39180b5a9e6a
