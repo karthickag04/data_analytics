@@ -19,3 +19,9 @@ https://chatgpt.com/share/6a23c2e9-2ba4-83e8-8876-39180b5a9e6a
 LOOKUP AND REFERENCE FUNCTIONS: VLOOKUP, HLOOKUP, Index, Address, Match, Offset,
 Transpose Etc
 https://chatgpt.com/share/6a266be4-0e80-83e8-af1c-3a0bfa87c025
+
+
+powerbi
+
+Q and A based chart creation 
+https://chatgpt.com/share/6a27a561-c578-83e9-a2cc-963d94d8ce17
