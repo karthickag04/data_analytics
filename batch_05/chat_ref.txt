@@ -41,6 +41,9 @@ https://chatgpt.com/share/6a2912a8-3cac-83e8-b1d8-79b9d5fd4341
 FINANCIAL FUNCTIONS: PMT, PPMT, RATE ETC. 
 https://chatgpt.com/share/6a2912b5-3aa4-83e9-a42f-552a54259138
 
+XLookup Ref
+https://chatgpt.com/share/6a2a5eb6-1ab8-83e8-ba56-8b7e6f61823b
+
 powerbi
 
 Q and A based chart creation 
