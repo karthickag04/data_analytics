@@ -32,6 +32,10 @@ https://chatgpt.com/share/68e37561-6908-800b-8386-89ac934d6109
 
 powerbi Filter formulas
 https://chatgpt.com/share/6899ba83-dbf0-800b-b767-900ec99d0e80
+Additional filter formulas examples
+https://chatgpt.com/share/6a687325-f2a8-83e8-82e4-d2cc80749314
+
+
 Relationship Functions 
 https://chatgpt.com/share/689c5ee3-2424-800b-8600-061a74c6c145
 
