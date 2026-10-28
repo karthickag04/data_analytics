@@ -1,3 +1,6 @@
+chat ref for creating new measure and column and table using dataset as input in chatgpt
+https://chatgpt.com/share/6ae1a9a1-9fb4-83ee-a966-cadcf65e4be7
+
 Data Related Ref - 
 https://chatgpt.com/share/6a43b622-2ad4-83e8-82d6-0f0da7694525
 
